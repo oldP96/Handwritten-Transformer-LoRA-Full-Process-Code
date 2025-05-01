@@ -14,6 +14,7 @@ As far as I know, no one can explain the neural network, including the academic 
 Technologies beyond transformer are often the simplest theory in Chinese RU SHI DAO
 
 ## 项目特点
+- **新增GRPO思维链(参考学习为主)**:使用RL奖励函数，实现基座模型思维过程训练样本级
 - **手写 Transformer**：完全从零实现 Transformer 的 decoder，特别是多头注意力机制。
 - **LoRA 微调**：采用 LoRA 技术进行模型微调，适合资源有限的场景。
 - **学习率策略**：采用 CosineAnnealingLR 学习率衰减策略，模拟学习过程中的“先快后慢”特性。
